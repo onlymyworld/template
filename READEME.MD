@@ -1,18 +1,18 @@
 BeiQi(北汽)项目前端文档
 
-##开发
-###启动
+## 开发
+### 启动
 ```js
 npm run dev
 ```
 启动开发环境后，访问`http://localhost:8082/dev.html`即为开发环境。
 
-###打包
+### 打包
 ```js
 npm run prod
 ```
 
-###目录树
+### 目录树
 
 ```shell 
 │  dev.html  //开发环境访问页面
@@ -39,7 +39,7 @@ npm run prod
     └─theme        //外部样式资源
 ```
 
-###eslint测试
+### eslint测试
 可以运行`npm run eslint`运行语法测试。
 
-###jest(单元测试)
+### jest(单元测试)
