@@ -1,0 +1,25 @@
+卷 软件 的文件夹 PATH 列表
+卷序列号为 0001-59DA
+E:.
+│  dev.html
+│  package.json
+│  READEME.MD
+│  template.html
+│  tree.txt
+│  webpack.config.js
+│  webpack.release.js
+│  
+├─app
+│      index.js
+│      
+└─src
+    ├─assets
+    │  ├─font
+    │  ├─icons
+    │  ├─images
+    │  └─locales
+    ├─components
+    ├─core
+    ├─services
+    ├─stores
+    └─theme
